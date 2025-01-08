@@ -6,34 +6,6 @@
 - 👯 Skills in blockchain
 - ⚡ Can start new project immediately
 - ✔️ I’m available for remote opportunities
-  
-  ### 🍳 How to contact me 🍳
-<!--
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
--->
-<p align='center'>
-<!--   <a href="davidzeeman0013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a> -->
-  <a href="https://join.skype.com/invite/am9wzMHhsAli" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-  <a href="https://t.me/jsoftcorey" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discordapp.com/users/slarkhero" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-<!--   <a href="https://www.linkedin.com/in/james-yamamoto-537b49265" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/JamesYamamoto92" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a> -->
-<!--   <a href="https://wa.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-%51F05C.svg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp">
-  </a> -->
-</p>
 
 ### 💻 My favorite tools and technologies
 
@@ -70,6 +42,7 @@
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
+  </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github

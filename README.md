@@ -2,9 +2,8 @@
 # ❤️ Senior Full Stack Developer ❤️
 
 - 👀 Rich experience in the software industry
-- 🔭 Rich experience in web development with .NET & Python & JS & PHP frameworks 
-- 🌱 Proficient in hybrid app development for mobile and desktop with Flutter and .NET MAUI
-- 👯 Skills in blockchain & AI & Data science
+- 🔭 Rich experience in web development with Python & JS & PHP frameworks 
+- 👯 Skills in blockchain
 - ⚡ Can start new project immediately
 - ✔️ I’m available for remote opportunities
   
@@ -13,7 +12,7 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 -->
 <p align='center'>
-<!--   <a href="mailto:james.yama.tech@gmail.com" target="_blank">
+<!--   <a href="davidzeeman0013@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
   <a href="https://join.skype.com/invite/am9wzMHhsAli" target="_blank">
@@ -59,24 +58,12 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
     </td>
   </tr>
   <tr>
@@ -168,28 +155,13 @@
 
   ### 🥝 Web | Mobile 🥝
     ⭐ Web & Mobile Full Stack Developer ⭐
-    - Languages: HTML, CSS, JavaScript, Typescript, C#, Python, GoLang, Dart, PHP, SQL, Rust, Swift, Kotlin
-    - JS Frontend Frameworks: Angular, React, Vue.js, Svelte.js, Alpine.js, jQuery, Next.js, Nuxt.js, Gatsby
-    - JS Backend Frameworks: Node.js, Nest.js, Express.js, Feathers.js, Koa.js, Fastify.js, Sails.js 
-    - PHP Backend Frameworks: Laravel, CodeIgniter, CakePHP
-    - Python Backend Frameworks: Django, Flask, Fast API
-    - .NET Frameworks: ASP.NET Core, Blazor, Razor
-    - Golang, Rust
-    - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, Element UI, Chakra UI, D3.js, Three.js
-    - Mobile Frameworks: Swift with Xcode, Java, Flutter, React Native, Xamarin, Ionic, Kotlin
-  
-  ### 🥝 Desktop App 🥝
-    ⭐ Desktop app developer ⭐
-    - C#, Windows Form, WPF, UWP, Xamarin Forms, .NET MAUI
-    - Qt, Tauri
-    - Electron
-    - Flutter
-
-  ### 🥝 Environment 🥝
-    ⭐ Great teamworks and Agile environment ⭐
-    - VCS: Git, Github, GitLab, BitBucket
-    - Asuna, Jira, Trello, Docker, Kubernetes
-    - AWS, Azure, GCP, Digital Ocean, Heroku
+    - Languages: HTML, CSS, JavaScript, Typescript, Python, PHP, SQL, Solidity
+    - JS Frontend Frameworks: React, Vue.js, Next.js
+    - JS Backend Frameworks: Node.js, Nest.js, Express.js,
+    - PHP Backend Frameworks: Laravel
+    - Python Backend Frameworks: Django
+    - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, D3.js, Three.js
+    - Mobile Frameworks: React Native
   
 ### 🔥 &nbsp; My Stats :
 

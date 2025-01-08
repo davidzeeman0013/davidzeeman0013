@@ -117,18 +117,16 @@
  </tr>
 </table>
 
-  ### 🥝 Smart Contract | Blockchain | NFT | ICO | Defi | UniSwap | Dapp 🥝
+  ### 🥝 Smart Contract | Blockchain 🥝
     ⭐ Blockchain Developer ⭐
-    - Ehtereum, BSC, Solana, Polygon, Cardano, Flow, IOTA
-    - ERC20, ERC721, ERC721A, ERC1155, BEP20 ...
-    - NFT: NFT minting, staking, reflection, royalty, marketplace
-    - Solidity, Rust, Haskell, GoLang, Motoko
-    - UniSwap, PancakeSwap ICO, Defi, DEX
+    - Ehtereum
+    - ERC20, ERC721, ERC721A, ERC1155 ...
+    - Solidity, GoLang
     - Cryptocurrency
 
   ### 🥝 Web | Mobile 🥝
     ⭐ Web & Mobile Full Stack Developer ⭐
-    - Languages: HTML, CSS, JavaScript, Typescript, Python, PHP, SQL, Solidity
+    - Languages: HTML, CSS, JavaScript, Typescript, Python, PHP, SQL
     - JS Frontend Frameworks: React, Vue.js, Next.js
     - JS Backend Frameworks: Node.js, Nest.js, Express.js,
     - PHP Backend Frameworks: Laravel

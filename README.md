@@ -16,7 +16,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="96">
@@ -78,7 +78,7 @@
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
       <br>C++
     </td>
               <td align="center" width="96">
@@ -103,7 +103,7 @@
     ⭐ Web & Mobile Full Stack Developer ⭐
     - Languages: HTML, CSS, JavaScript, Typescript, Python, PHP, SQL
     - JS Frontend Frameworks: React, Vue.js, Next.js
-    - JS Backend Frameworks: Node.js, Nest.js, Express.js,
+    - JS Backend Frameworks: Node.js, Express.js,
     - PHP Backend Frameworks: Laravel
     - Python Backend Frameworks: Django
     - UI Frameworks: MUI, Ant Design, Tailwind CSS, Bootstrap, D3.js, Three.js
